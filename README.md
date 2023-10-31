@@ -8,7 +8,7 @@
     - Declaração e atribuição
     - Zero values
     - Iota
-    - Contantes
+    - Constantes
     - Criando seus próprios tipos
 - Estrutura de Repetição e Fluxo de Controle
     - Loops (Array, Slices, Maps)
