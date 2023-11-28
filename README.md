@@ -23,3 +23,12 @@
 - Structs e Interfaces
     - Composição
     - Métodos
+- Ponteiros
+- Paralelismo e Canais
+- Pacotes
+    - Importar bibliotecas externas
+    - Exemplo de estruturas para organizar o projeto
+    - Dependêcias
+    - Build do projeto
+- Criar um app
+    - http
